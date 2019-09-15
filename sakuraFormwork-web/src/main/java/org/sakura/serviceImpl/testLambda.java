@@ -48,6 +48,7 @@ public class testLambda<dfsf> {
 
     @Test
     public void testLambda() {
+        int a = 100;
 
         Apple apple = new Apple("苹果", "红色");
 
